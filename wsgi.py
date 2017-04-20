@@ -7,5 +7,5 @@ import server
 
 
 sys.path.insert(0, abspath(dirname(__file__)))
-application = server
+application = server.loocat
 
