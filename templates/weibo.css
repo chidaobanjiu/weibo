@@ -1,0 +1,13 @@
+.Weibo-cell {
+    text-align: center;
+    height: 50px;
+    width: 400px;
+    margin: 0 auto;
+}
+.comment-cell {
+    background-color: white;
+    color: #222;
+}
+.comment-delete {
+    float: right;
+}
